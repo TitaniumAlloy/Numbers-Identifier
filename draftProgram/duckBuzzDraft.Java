@@ -1,4 +1,4 @@
-package numbers; // List of numbers and Shortest line of code than any other answer.
+package numbers; // List of numbers and Shortest line of code than any other.
 import java.util.Scanner;
 
 public class Main {
