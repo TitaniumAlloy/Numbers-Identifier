@@ -19,7 +19,7 @@ public class Main {
                 break;
             } else {
                 System.out.println("The Properties of " + naturalNumber);
-                getEvenOdd(naturlNumber);
+                getEvenOdd(naturalNumber);
                 getBuzz(naturalNumber);
                 getDuck(naturalNumber);
                 getPalindromic(naturalNumber);
